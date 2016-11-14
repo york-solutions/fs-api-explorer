@@ -1,5 +1,5 @@
 var client = new FamilySearch({
-      appKey: 'a02j000000JBxOxAAL',
+      appKey: 'a02j000000KSuIBAA1',
       redirectUri: window.location.href
     }),
     $url = document.getElementById('url'),
